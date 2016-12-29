@@ -10,9 +10,15 @@ body {
 }
 
 /* Titles */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
     font-family: "Raleway";
     font-weight: 300;
+    color: #333;
+}
+
+h3{
+	font-family: "Raleway";
+    font-weight: 400;
     color: #333;
 }
 
@@ -21,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
     line-height: 28px;
     margin-bottom: 25px;
+    font-weight: 400;
 }
 
 .centered {
